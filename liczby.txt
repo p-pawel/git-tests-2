@@ -1,4 +1,5 @@
 Jeden
 Dwa
 Trzy
-
+Cztery
+Pięć
